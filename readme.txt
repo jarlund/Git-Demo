@@ -1,4 +1,2 @@
 Some text.
 Some more text.
-Even more text.
-More.
