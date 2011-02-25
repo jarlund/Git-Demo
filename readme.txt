@@ -1,3 +1,2 @@
-Some text.
 Some more text.
 Text.
